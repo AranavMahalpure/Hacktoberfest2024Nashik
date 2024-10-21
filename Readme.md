@@ -41,15 +41,16 @@ git clone https://github.com/yourusername/hacktoberfest-nashik-website.git
 cd hacktoberfest-nashik-website
 npm install
 ```
-Running the Application
-After installing the dependencies, start the development server:
+## 🔥 Running the Application
+
+Once you’ve installed the dependencies, fire up the development server:
+
 ```bash
 npm start
 ```
-Open http://localhost:3000 in your browser to see the application in action.
 
 Getting Involved
 If you're interested in contributing, please review the CONTRIBUTING.md file for detailed guidelines on how to submit your contributions.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
